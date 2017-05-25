@@ -1,0 +1,6 @@
+c:\users\alejandra\documents\visual studio 2015\Projects\TPRefuerzoCasa\TPRefuerzoCasa\bin\Debug\TPRefuerzoCasa.exe.config
+c:\users\alejandra\documents\visual studio 2015\Projects\TPRefuerzoCasa\TPRefuerzoCasa\bin\Debug\TPRefuerzoCasa.exe
+c:\users\alejandra\documents\visual studio 2015\Projects\TPRefuerzoCasa\TPRefuerzoCasa\bin\Debug\TPRefuerzoCasa.pdb
+c:\users\alejandra\documents\visual studio 2015\Projects\TPRefuerzoCasa\TPRefuerzoCasa\obj\Debug\TPRefuerzoCasa.csprojResolveAssemblyReference.cache
+c:\users\alejandra\documents\visual studio 2015\Projects\TPRefuerzoCasa\TPRefuerzoCasa\obj\Debug\TPRefuerzoCasa.exe
+c:\users\alejandra\documents\visual studio 2015\Projects\TPRefuerzoCasa\TPRefuerzoCasa\obj\Debug\TPRefuerzoCasa.pdb

@@ -1,0 +1,6 @@
+c:\users\alejandra\documents\visual studio 2015\Projects\TPRefuerzos\TPRefuerzos\bin\Debug\TPRefuerzos.exe.config
+c:\users\alejandra\documents\visual studio 2015\Projects\TPRefuerzos\TPRefuerzos\obj\Debug\TPRefuerzos.csprojResolveAssemblyReference.cache
+c:\users\alejandra\documents\visual studio 2015\Projects\TPRefuerzos\TPRefuerzos\bin\Debug\TPRefuerzos.exe
+c:\users\alejandra\documents\visual studio 2015\Projects\TPRefuerzos\TPRefuerzos\bin\Debug\TPRefuerzos.pdb
+c:\users\alejandra\documents\visual studio 2015\Projects\TPRefuerzos\TPRefuerzos\obj\Debug\TPRefuerzos.exe
+c:\users\alejandra\documents\visual studio 2015\Projects\TPRefuerzos\TPRefuerzos\obj\Debug\TPRefuerzos.pdb
